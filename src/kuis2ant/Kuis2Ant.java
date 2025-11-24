@@ -13,8 +13,9 @@ public class Kuis2Ant {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+   
+public static void main(String[] args) {
+    new GameManagerGUI().setVisible(true); 
+}
     
 }
